@@ -1,6 +1,6 @@
 {
     "name": "ericphamhoangrz/multiple-date-picker",
-    "description": "A Laravel Nova field.",
+    "description": "Multiple Date Picker for Laravel Nova",
     "keywords": [
         "laravel",
         "nova"
